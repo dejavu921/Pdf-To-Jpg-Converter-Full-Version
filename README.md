@@ -229,3 +229,6 @@ This repository serves as the official landing page for PDF To JPG Converter. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PDF To JPG Converter today!**
+
+---
+**Last updated:** 2026-09-09 18:23:50 UTC
